@@ -253,7 +253,7 @@ went wrong.
     nametag = circle(10)
     ~~~~~
 
-    One line says `nametag` means the text "Miriam", but the second line
+    One line says `nametag` means the text "Victor", but the second line
     says that `nametag` instead means a circle with a radius of 10.  So
     which is it?  Most likely, the programmer here meant for `nametag` to
     include both.  To do that, you would write one definition for
